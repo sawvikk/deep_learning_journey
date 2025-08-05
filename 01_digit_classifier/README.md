@@ -1,3 +1,14 @@
-# Digit Classifier
+# 🧠 Digit Classifier
 
-This project uses MNIST to classify digits using a neural network.
+A simple neural network that classifies handwritten digits using the MNIST dataset.
+
+## 🚀 Features
+- Uses TensorFlow and Keras
+- 98.4% accuracy on test data
+- Visualizes sample predictions
+
+## 🛠 Requirements
+See [requirements.txt](requirements.txt)
+
+## 📊 Output Example
+![Sample Prediction](results/sample_digit_output.png)
