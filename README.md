@@ -4,7 +4,7 @@ This repository tracks my progress as I learn and build projects in Deep Learnin
 
 ## 📂 Contents
 
-1. [Digit Classifier] (01_digit_classifier/)
+1. [Digit Classifier](01_digit_classifier/)
 
 
 ## 🎯 Goal
