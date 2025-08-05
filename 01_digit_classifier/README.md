@@ -11,4 +11,4 @@ A simple neural network that classifies handwritten digits using the MNIST datas
 See [requirements.txt](requirements.txt)
 
 ## 📊 Output Example
-![Sample Prediction](results/sample_digit_output.png)
+![Sample Prediction](sample_digit_output.png)
