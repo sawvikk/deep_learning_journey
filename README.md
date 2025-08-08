@@ -5,6 +5,7 @@ This repository tracks my progress as I learn and build projects in Deep Learnin
 ## 📂 Contents
 
 1. [Digit Classifier](01_digit_classifier/)
+2. [Customer Churn Prediction](02_Customer_Churn_prediction)
 
 
 ## 🎯 Goal
